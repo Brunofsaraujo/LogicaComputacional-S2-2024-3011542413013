@@ -3,7 +3,7 @@
 - bruno.araujo25@fatec.sp.gov.br
 - https://github.dev/Brunofsaraujo
 
-Repositório referente ao exercício avaliativo de Lógica Computacional da instituição **Fatec Votorantim** - 2º Semestre de 2024.
+Exercício avaliativo de Lógica Computacional da instituição **Fatec Votorantim** - 2º Semestre de 2024.
 
 ## 📚 Atividade Avaliativa
 
